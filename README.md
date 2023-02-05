@@ -6,5 +6,5 @@ Usecases:
 2. When you have processes theat needs to execute at different time for different groups but the seond execution might need to start before the first execution complete.
 
 Flowchart
-![alt text](https://media.geeksforgeeks.org/wp-content/uploads/multithreading-python-21.png) vs ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/multithreading-python-21.png) 
+![alt text](https://media.geeksforgeeks.org/wp-content/uploads/multithreading-python-21.png)
  
